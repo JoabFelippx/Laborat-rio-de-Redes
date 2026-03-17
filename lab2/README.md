@@ -8,7 +8,7 @@ Este laboratório consiste na configuração de uma rede lógica com quatro máq
 
 ## Topologia
 
-![Topologia](topologia.png)
+![Topologia](topologia_.png)
 
 | Máquina | Interface | Endereço IP       | Rede            |
 |---------|-----------|-------------------|-----------------|
