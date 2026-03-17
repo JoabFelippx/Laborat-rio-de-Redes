@@ -9,7 +9,7 @@ Este laboratório consiste na configuração de uma rede lógica com quatro máq
 ## Topologia
 
 ```
-[C1] ---- rede57_1-ter ---- [G1] ---- rede57_2-ter ---- [G2] ---- rede57_3-ter ---- [C2]
+<img src="topologia.png" alt="Descrição" width="500">
 ```
 
 | Máquina | Interface | Endereço IP       | Rede            |
